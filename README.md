@@ -33,4 +33,5 @@ most (software) projects are familiar with.
 
 Each component should:
 
+- explain why it is important to document the component
 - provide examples of how and where to document the component
