@@ -27,7 +27,7 @@ most (software) projects are familiar with.
 ## Components
 
 - **Objectives**: What are the goals of the project?
-- **Governance**: How are decisions made in the project? What are the human or social rules that should be followed in the project? What is the social framework for collaboration in the project?
+- [**Governance**](Governance.md): How are decisions made in the project? What are the human or social rules that should be followed in the project? What is the social framework for collaboration in the project?
 - **License**: How can I use the project? How can I contribute to the project? What is the legal framework for collaboration in the project?
 - **Process**: How is work done in the project? How do we implement the project's Governance to give project contributors structure in how they do their work?
 
