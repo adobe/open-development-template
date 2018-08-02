@@ -1,12 +1,15 @@
 # Open Development Template
 
-Documentation templates that help teams formalize their goals, workflow and governance model to encourage participation and field contributions.
+Documentation templates that help teams and projects formalize their mission, workflow
+(or process), licensing and governance to encourage participation, field contributions
+and help grow a community.
 
 ## Goals
 
 This project provides templates for project documentation that:
 
-- makes it easy for newcomers to a project to get involved (creates an environment with a low barrier to entry)
+- makes it easy for newcomers to a project to get involved (creates an environment
+    with a low barrier to entry)
 - enables maintainability as a project grows (scales up)
 
 ## Why?
@@ -26,10 +29,14 @@ most (software) projects are familiar with.
 
 ## Components
 
-- **Objectives**: What are the goals of the project?
-- [**Governance**](Governance.md): How are decisions made in the project? What are the human or social rules that should be followed in the project? What is the social framework for collaboration in the project?
-- **License**: How can I use the project? How can I contribute to the project? What is the legal framework for collaboration in the project?
-- **Process**: How is work done in the project? How do we implement the project's Governance to give project contributors structure in how they do their work?
+- [**Mission**](Mission.md): What are the goals of the project?
+- [**Governance**](Governance.md): How are decisions made in the project? What
+    are the human or social rules that should be followed in the project? What
+    is the social framework for collaboration in the project?
+- **License**: How can I use the project? How can I contribute to the project?
+    What is the legal framework for collaboration in the project?
+- **Process**: How is work done in the project? How do we implement the project's
+    Governance to give project contributors structure in how they do their work?
 
 Each component should:
 
