@@ -4,6 +4,15 @@ A project mission details the intent behind its existence. It is a [crisp,
 plain-talk statement][what-mission] that underscores every order, plan or goal and
 describes a desired end-state.
 
+1. [Why Document It?](#why-document-it)
+    1. [Efficiency Through Clarity Of
+       Direction](#efficiency-through-clarity-of-direction)
+    2. [Lowers Barrier To Entry](#lowers-barrier-to-entry)
+    3. [Creates A Sense Of Purpose](#creates-a-sense-of-purpose)
+2. [How To Document It?](#how-to-document-it)
+3. [Example Mission Statements](#example-mission-statements)
+4. [References](#references)
+
 # Why Document It?
 
 ## Efficiency Through Clarity Of Direction
