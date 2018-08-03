@@ -109,7 +109,8 @@ the **roles and responsibilities** in this governance model.
 ## Majority Rule
 
 For those living in a democractic country this governance model should feel
-very familiar.
+very familiar. Differences that cannot be resolved by seeking consensus are
+simply put to a vote.
 
 |Pros|Cons|
 |---|---|
