@@ -15,7 +15,7 @@ describes a desired end-state.
 
 # Why Document It?
 
-## Efficiency Through Clarity Of Direction
+## Performance Through Clarity Of Direction
 
 It is easy to get caught up in the day-to-day trials and tribulations of work,
 but how can we be sure that what we're working on aligns with the purpose of the
@@ -23,11 +23,14 @@ project? **A mission statement is a guiding star** or a lighthouse on the horizo
 that gives us perspective and allows us to judge whether our work pushes the
 project in the right direction. It [manages to align the behaviour of team members
 at all levels without requiring play-by-play instructions from
-leaders][what-mission]. This **allows for self-organization** to take over, because
+leaders][what-mission]. Put differently, [in committing to a goal, a person chooses
+to divert attention to goal-relevant activities and away from goal-irrelevant
+ones][benefits-goals].This **allows for self-organization** to take over, because
 teams are smart enough to figure out for themselves how to arrive where they are
 needed - all we need to do is make clear where they are needed. This is also
 helpful to [clarify priority][strategic-planning] amongst the plethora of tasks
-in front of teams.
+in front of teams. Finally, [having specific goals improves
+performance][benefits-goals].
 
 ## Lowers Barrier To Entry
 
@@ -45,7 +48,8 @@ your cause][purpose].
 By rallying a team and project around a purpose we [encourage excellence in our
 team and provide staying power within it][purpose]. Purpose becomes the reason
 for involvement - not money or glory, which do not have the same staying power
-as purpose.
+as purpose. [Goal-setting instills purpose, challenge and meaning into one's
+work][benefits-goals].
 
 # How To Document It?
 
@@ -77,11 +81,15 @@ dedicate a section of your project website to document this.
 
 # References
 
-1. [What is the Mission of your Project?][what-mission]
-2. [Strategic Planning: Developing Vision and Mission
+1. [The Motivational Benefits of Goal Setting][benefits-goals], Latham, G.P. 2004.
+    The Academy of Management Executive (1993-2005), Vol. 18, No. 4, Decision-Making
+    and Firm Success (Nov., 2004), pp. 126-129
+2. [What is the Mission of your Project?][what-mission]
+3. [Strategic Planning: Developing Vision and Mission
    Statements][strategic-planning]
-3. [Clear Purpose Benefits Your Business][purpose]
+4. [Clear Purpose Benefits Your Business][purpose]
 
+[benefits-goals]: https://www.jstor.org/stable/4166132
 [what-mission]: https://www.projectsmart.co.uk/what-is-the-mission-of-your-project.php
 [strategic-planning]: https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vision-mission-statements/main
 [purpose]: https://www.entrepreneur.com/article/272597
