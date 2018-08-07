@@ -1,8 +1,8 @@
 # Open Development Template
 
-Documentation templates that help teams and projects formalize their mission, workflow
-(or process), licensing and governance to encourage participation, field contributions
-and help grow a community.
+Documentation templates that help teams and projects formalize their [mission](Mission.md),
+[workflow (or process)](Process.md), [licensing](Licensing.md) and [governance](Governance.md)
+to encourage participation, field contributions and help grow a community.
 
 ## Goals
 
@@ -33,10 +33,11 @@ most (software) projects are familiar with.
 - [**Governance**](Governance.md): How are decisions made in the project? What
     are the human or social rules that should be followed in the project? What
     is the social framework for collaboration in the project?
-- **License**: How can I use the project? How can I contribute to the project?
-    What is the legal framework for collaboration in the project?
-- **Process**: How is work done in the project? How do we implement the project's
-    Governance to give project contributors structure in how they do their work?
+- [**Licensing**](Licensing.md): How can I use the project? How can I contribute
+    to the project? What is the legal framework for collaboration in the project?
+- [**Process**](Process.md): How is work done in the project? How do we implement
+    the project's [Governance](Governance.md) to give project contributors structure
+    in how they do their work?
 
 Each component should:
 

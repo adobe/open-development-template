@@ -211,6 +211,7 @@ develop roles and responsibilities organically.
         channels](http://forrest.apache.org/guidelines.html#communication) used.
 - The [Meritocracy Example Governance Model][meritocracy-example] goes into
     further detail as to what such a document should include.
+- The Jenkins project has a [Project Governance Document][jenkins-governance].
 
 # References
 
@@ -252,3 +253,4 @@ develop roles and responsibilities organically.
 [daci-template]: https://marketplace.atlassian.com/plugins/atlassian-playbook-daci-decision/cloud/overview
 [daci-pdf]: https://www.atlassian.com/dam/jcr:f6b56375-3d78-496a-857e-ca47e89816ce/DACI-Decision-template.pdf
 [heirarchy-network]: https://hbr.org/2011/05/two-structures-one-organizatio
+[jenkins-governance]: https://jenkins.io/project/governance
