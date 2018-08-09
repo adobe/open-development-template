@@ -39,7 +39,11 @@ most (software) projects are familiar with.
     the project's [Governance](Governance.md) to give project contributors structure
     in how they do their work?
 
-Each component should:
+Each component describes why and how to document each aspect of a project and
+provides examples.
 
-- explain why it is important to document the component
-- provide examples of how and where to document the component
+## Contributing
+
+Thanks for thinking about contributing to this project! Check out our
+[contribution guidelines](CONTRIBUTING.md) for information on how to get
+involved.
