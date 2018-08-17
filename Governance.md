@@ -44,7 +44,7 @@ embedding recognition in our social rules of interaction (in, for example, our
 Be it through a project or team website, a separate document revisioned along
 with code, or a wiki page, all of these are great ways of formalizing a
 governance model. You can think of this document as your [project's
-constitution][consensus-democracy], to borrow a concept from democractic forms
+constitution][consensus-democracy] to borrow a concept from democractic forms
 of government.
 
 It's important that this information be accessible and
@@ -85,7 +85,7 @@ most corporations.
 
 Adobe uses a **decision making framework** called [DACI][daci], which stands for
 Driver, Approver, Contributor and Informed. This framework also clearly states
-the **roles and responsibilities** in this governance model.
+the **roles and responsibilities**.
 
 |Pros|Cons|
 |---|---|
@@ -170,12 +170,14 @@ and their leaders. It is common for the dictator to give autonomy to smaller pro
 #### Benevolent Dictatorship Documentation Examples
 
 - The [Benevolent Dictatorship Example Governance Model][bd-example] is based on
-    the success of the [Linux Kernel project][linux-kernel] and its dictator, [Linus Torvalds][linus].
+    the success of the [Linux Kernel project][linux-kernel] and its dictator, [Linus
+    Torvalds][linus].
 
 ### Meritocracy
 
-[Merit earns authority, and in theory anyone can earn merit][meritocracy]. Facilitating
-contributions earns merit. A meritocracy of one is a benevolent dictatorship.
+[Merit earns authority, and (in theory) anyone can earn merit][meritocracy]. Facilitating
+contributions earns merit. A meritocracy of one is a [benevolent
+dictatorship](#benevolent-dictatorship).
 
 |Pros|Cons|
 |---|---|
@@ -183,14 +185,14 @@ contributions earns merit. A meritocracy of one is a benevolent dictatorship.
 |Efficient|Can devolve into oligarchy|
 
 **Decision making** is leaderless and is done by action ("send a patch"). Actions
-are reversible ("that really broke stuff, let's revert"). [Lazy consensus is still
-consensus][lazy-consensus]. It generally includes a change review process;
+are reversible ("that last change really broke stuff, let's revert"). [Lazy consensus
+is still consensus][lazy-consensus]. It generally includes a change review process;
 [commit-then-review][ctr] is a form of [lazy consensus][lazy-consensus] and tends
 to be faster than the alternative of the more-stringent [review-then-commit][rtc].
 
 There are no defined **leaders** or **roles** - everyone (with merit) commits,
-everyone is responsible for everything! Over time, projects and teams may
-develop roles and responsibilities organically.
+everyone is responsible for everything! Over time, projects and teams may develop
+roles and responsibilities organically.
 
 #### Meritocracy Documentation Examples
 

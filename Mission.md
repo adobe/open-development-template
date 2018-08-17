@@ -25,12 +25,11 @@ project in the right direction. It [manages to align the behaviour of team membe
 at all levels without requiring play-by-play instructions from
 leaders][what-mission]. Put differently, [in committing to a goal, a person chooses
 to divert attention to goal-relevant activities and away from goal-irrelevant
-ones][benefits-goals].This **allows for self-organization** to take over, because
+ones][benefits-goals]. This **allows for self-organization** to take over, because
 teams are smart enough to figure out for themselves how to arrive where they are
-needed - all we need to do is make clear where they are needed. This is also
-helpful to [clarify priority][strategic-planning] amongst the plethora of tasks
-in front of teams. Finally, [having specific goals improves
-performance][benefits-goals].
+needed - all we need to do is make clear where that is. This is also helpful to
+[clarify priority][strategic-planning] amongst the plethora of tasks in front of
+teams. Finally, [having specific goals improves performance][benefits-goals].
 
 ## Lowers Barrier To Entry
 
@@ -55,12 +54,12 @@ work][benefits-goals].
 
 This can be as light or as heavy as a team wishes. It could be as light as a one
 or two sentence mission statement, or as heavy as a mission statement supported
-by time-bound objectives that each define a few key results that is regularly
-reviewed by the team as part of their [process](Process.md).
+by time-bound objectives that each define a few key results regularly reviewed
+by the team as part of their [process](Process.md).
 
 For a smaller project composed of a single software repository, you can
-document this in the project's `README.md`, possibly as part as a dedicated
-"Mission" or "Why?" or "Purpose" section.
+document this in [the project's `README.md`](README.md#goals), possibly as part
+as a dedicated "Mission" or "Why?" or "Purpose" section.
 
 For a large project composed of several software repositories, you may wish to
 dedicate a section of your project website to document this.

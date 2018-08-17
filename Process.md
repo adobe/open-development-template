@@ -15,15 +15,15 @@
 
 [Documentation begets improvement][document-agency]. Once you write down a process,
 you'll quickly see if/where it needs work and what needs to be in place to help
-your team be more effective and efficient.
+your team be more effective and efficient. Something that is written down and
+formalized can be iterated upon.
 
 ## Faster Onboarding
 
-By making explicit the social rituals, activities, and resources that
-collectively comprise how the team and project get work done, we can [onboard
-teammates quickly and efficiently so they can start getting work done right
-away][better-docs]. This also lowers the barrier to entry to involve oneself in
-the project.
+By making explicit the social rituals, activities, and resources that collectively
+comprise how the team and project get work done, we can [onboard teammates quickly
+and efficiently so they can start getting work done right away][better-docs]. This
+also lowers the barrier to entry to involve oneself in the project.
 
 ## Exert Less Energy
 
@@ -31,18 +31,26 @@ While documenting something does require up-front time and effort, on a long eno
 timeline our team [exerts less mental energy][better-docs] when common questions
 are answered via documentation.
 
+## Increase Predictability
+
+Everyone appreciates structure, order and predictability, and the [goal of a healthy
+process is to define structure so order is maintained and predictability is increased][process-myth].
+
 # What To Document?
 
-The core question to answer is "how do we do work?" There are usually several
-aspects to this question that can be answered, but it is worth thinking about
-what are the _most_ valuable answers. Start small. A good rule of thumb is document
-the questions that newcomers typically ask often. [Slow is okay. Steadily is
-imperative][document-agency]. The environment changes and thus the process(es) need
-to change, and your team can't approach this with a one-and-done mentality. Pay
-extra attention to questions and feedback brought up by "outsiders" - having
-less context is helpful when identifying barriers to entry and involvement, and
-the whole point in documenting our processes is to make it easy for others to
-get involved.
+The core question to answer is "how do we do work?" - but the [real value comes
+from also documenting _why_][process-myth]. There are usually several aspects to
+this question that can be answered, but it is worth thinking about what are the _most_
+valuable answers. Start small. A good rule of thumb is document the questions that
+newcomers typically ask often. [Slow is okay. Steadily is imperative][document-agency].
+The environment changes and thus the process(es) need to change, and your team can't
+approach this with a one-and-done mentality. Pay extra attention to questions and
+feedback brought up by "outsiders" - having less context is helpful when identifying
+barriers to entry and involvement, and [the whole point in documenting our processes
+is to make it easy for others to get involved](README.md#goals).
+
+[Healthy process is process that can defend itself][process-myth]. Every time we
+add process we need to be able to explain why and what benefits it brings.
 
 There are certain more definitive aspects of a software project that absolutely
 should be documented:
@@ -52,7 +60,7 @@ should be documented:
 - What is the branching and merging (revision control) strategies and
     conventions employed in the project?
 - Are there coding conventions? These are worth calling out, or even better,
-    worth automating as part of your tests.
+    automating as part of your tests.
 
 Consider documenting the following aspects of your project and team's workflow:
 
@@ -102,3 +110,4 @@ or, if it is a bit more involved, in their `CONTRIBUTING.md`.
 [jenkins-governance]: https://jenkins.io/project/governance
 [thoughtbot-playbook]: https://thoughtbot.com/playbook
 [gitlab-runbooks]: https://gitlab.com/gitlab-com/runbooks
+[process-myth]: http://randsinrepose.com/archives/the-process-myth/
