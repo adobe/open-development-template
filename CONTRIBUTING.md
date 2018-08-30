@@ -41,13 +41,14 @@ model. This means that:
 If you'd like to speak to the contributors to this project, you can reach us
 through a bunch of different channels.
 
-### git.corp
+### GitHub
 
-On git.corp, you can always at-us by using the @open-source-office-team handle.
+On github.com, you can always notify the entire Open Source Office team by using
+the @open-source-office handle.
 
 ### Slack
 
-We're pretty active on #guild-opensource.
+We're pretty active on #guild-opensource (internal to Adobe).
 
 ### E-mail
 
@@ -55,7 +56,7 @@ You can always e-mail the Open Source Office members at
 [grp-opensourceoffice@adobe.com][email].
 
 [email]: mailto:grp-opensourceoffice@adobe.com
-[issue-tracker]: https://git.corp.adobe.com/OpenSourceAdvisoryBoard/open-development-template/issues
-[file-issue]: https://git.corp.adobe.com/OpenSourceAdvisoryBoard/open-development-template/issues/new
+[issue-tracker]: https://github.com/adobe/open-development-template/issues
+[file-issue]: https://github.com/adobe/open-development-template/issues/new
 [lazy-consensus]: https://rave.apache.org/docs/governance/lazyConsensus.html
-[help-wanted]: https://git.corp.adobe.com/OpenSourceAdvisoryBoard/open-development-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[help-wanted]: https://github.com/adobe/open-development-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
