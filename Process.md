@@ -105,7 +105,7 @@ or, if it is a bit more involved, in their `CONTRIBUTING.md`.
 
 [document-agency]: https://blog.hubspot.com/agency/document-agency-processes
 [better-docs]: https://www.atlassian.com/software/confluence/documentation
-[starter-repo]: https://git.corp.adobe.com/OpenSourceAdvisoryBoard/starter-repo
+[starter-repo]: https://github.com/adobe/starter-repo
 [spectrum-docs]: https://wiki.corp.adobe.com/display/AdobeDesign/Developer+Docs
 [jenkins-governance]: https://jenkins.io/project/governance
 [thoughtbot-playbook]: https://thoughtbot.com/playbook

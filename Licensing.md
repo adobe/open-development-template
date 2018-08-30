@@ -101,7 +101,7 @@ redistribution:
 [canonical-cla]: https://www.ubuntu.com/legal/contributors
 [github-licensing]: https://help.github.com/articles/licensing-a-repository/#determining-the-location-of-your-license
 [github-inbound-outbound]: https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license
-[starter-repo-contributing]: https://git.corp.adobe.com/OpenSourceAdvisoryBoard/starter-repo/blob/master/CONTRIBUTING.md
+[starter-repo-contributing]: https://github.com/adobe/starter-repo/blob/master/CONTRIBUTING.md
 [mit]: https://opensource.org/licenses/MIT
 [apache-2]: https://www.apache.org/licenses/LICENSE-2.0
 [gpl-3]: https://www.gnu.org/licenses/gpl-3.0.en.html
