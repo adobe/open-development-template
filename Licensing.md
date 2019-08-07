@@ -96,7 +96,7 @@ redistribution:
 12. [Adobe's Open Source Guidelines For Use In Adobe Products][adobe-open-source-legalwiki]
 
 [choose-license]: https://choosealicense.com
-[adobe-cla]: http://opensource.adobe.com/cla.html
+[adobe-cla]: https://opensource.adobe.com/cla.html
 [microsoft-cla]: https://cla.microsoft.com
 [canonical-cla]: https://www.ubuntu.com/legal/contributors
 [github-licensing]: https://help.github.com/articles/licensing-a-repository/#determining-the-location-of-your-license
