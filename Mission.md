@@ -17,9 +17,9 @@ describes a desired end-state.
 
 ## Performance Through Clarity Of Direction
 
-It is easy to get caught up in the day-to-day trials and tribulations of work,
-but how can we be sure that what we're working on aligns with the purpose of the
-project? **A mission statement is a guiding star** or a lighthouse on the horizon
+It is natural to get caught up in the day-to-day trials and tribulations of work, 
+but how can we be sure that what we're working on aligns with the purpose of the 
+project? **A mission statement is a guiding star** or a beacon on the horizon
 that gives us perspective and allows us to judge whether our work pushes the
 project in the right direction. It [manages to align the behaviour of team members
 at all levels without requiring play-by-play instructions from
@@ -29,12 +29,12 @@ ones][benefits-goals]. This **allows for self-organization** to take over, becau
 teams are smart enough to figure out for themselves how to arrive where they are
 needed - all we need to do is make clear where that is. This is also helpful to
 [clarify priority][strategic-planning] amongst the plethora of tasks in front of
-teams. Finally, [having specific goals improves performance][benefits-goals].
+teams. Finally, [having specific goals improves productivity][benefits-goals].
 
 ## Lowers Barrier To Entry
 
 A clear mission statement lets other individuals and organizations have a snapshot
-view of whom your group is and what it wants to do. When it is easily visible,
+view of whom your group is and what it wants to do. When the statement is easily visible,
 people can learn about your project without having to work hard for the information.
 Then, those with common interests can take the time necessary to learn more. This
 can be very helpful when you are [recruiting other people and organizations to join
